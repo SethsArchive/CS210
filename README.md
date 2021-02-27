@@ -17,5 +17,5 @@
         -The use of classes and slight user of pointers can be applicable to future projects and course work as they offer many advantages.
         
 6.) How did you make this program maintainable, readable, and adaptable?
-        -I keep the progarm readable by offering comments that explain just about everything. I keep instructions that usually relate to 
+        -I keep the progarm readable by offering comments that explain just about everything and keeping variable names understandable. I keep instructions that usually relate to 
         each other grouped together while separating things that don't, even if it is a single line. I try to keep lines indented perfectly to show the flow and logic of how               the program goes about its business. 
